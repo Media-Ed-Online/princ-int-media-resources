@@ -1,28 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 297.3 322.1" style="enable-background:new 0 0 297.3 322.1;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#F5A205;}
-	.st1{fill:#333333;}
-</style>
-<g>
-	<path class="st0" d="M264.3,0H33v148.6l74.3,49.5h4.4c9.1-10.1,22.2-16.5,36.9-16.5s27.8,6.4,36.9,16.5h4.4l74.3-49.5L264.3,0
-		L264.3,0z"/>
-	<path class="st1" d="M297.3,322.1V128.7l-33-33V119l11.8,11.8l-87.7,58.5c-10.8-10.2-24.8-15.9-39.7-15.9l0,0
-		c-15.4,0-29.3,6.1-39.7,15.9l-87.7-58.5L33,119V95.7l-33,33V322h297.3V322.1z M148.6,189.9L148.6,189.9c11,0,21.4,4.3,29.2,12.1
-		s12.1,18.2,12.1,29.2v8.3c0,4.6-3.7,8.3-8.3,8.3l0,0c-2.2,0-4.3-0.9-5.8-2.4c-1.6-1.6-2.4-3.6-2.4-5.8v-8.3
-		c0-13.7-11.1-24.8-24.8-24.8s-24.8,11.1-24.8,24.8S135,256,148.6,256c4.4,0,8.5-1.2,12.1-3.2c1,1.5,2.1,2.9,3.4,4.2
-		c4.7,4.7,10.9,7.3,17.5,7.3l0,0c10.5,0,19.5-6.6,23.1-15.9l21.4,19.5l11.1-12.2l-31-28.2c-0.6-8.9-3.2-17.5-7.6-25.1l82.1-54.8
-		v147.6L248.5,266l-11.1,12.2l30.2,27.4h-238l63.6-57.9c7.1,23.9,29.2,41.3,55.4,41.3h24.8v-16.5h-24.8c-22.8,0-41.3-18.5-41.3-41.3
-		C107.4,208.5,125.9,189.9,148.6,189.9z M156.9,231.2c0,4.6-3.7,8.3-8.3,8.3s-8.3-3.7-8.3-8.3s3.7-8.3,8.3-8.3
-		S156.9,226.7,156.9,231.2z M91,227.4l-74.5,67.7V147.6l82.2,54.8C94.3,209.8,91.6,218.3,91,227.4z"/>
-	<rect x="66.1" y="66.1" class="st1" width="74.3" height="16.5"/>
-	<rect x="156.9" y="66.1" class="st1" width="74.3" height="16.5"/>
-	<rect x="66.1" y="33" class="st1" width="165.2" height="16.5"/>
-	<rect x="66.1" y="99.1" class="st1" width="165.2" height="16.5"/>
-	<rect x="140.4" y="132.1" class="st1" width="16.5" height="16.5"/>
-	<rect x="189.9" y="132.1" class="st1" width="16.5" height="16.5"/>
-	<rect x="90.8" y="132.1" class="st1" width="16.5" height="16.5"/>
-</g>
-</svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 500.496 500.496" style="enable-background:new 0 0 500.496 500.496;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<polygon style="fill:#F5A205" points="18.248,226.248 186.248,226.248 186.248,194.248 10.248,194.248  " data-original="#F9BA48" class="active-path" data-old_color="#F9BA48"/>
+	<polygon style="fill:#F5A205" points="482.248,226.248 314.248,226.248 314.248,194.248 490.248,194.248  " data-original="#F9BA48" class="active-path" data-old_color="#F9BA48"/>
+	<polygon style="fill:#F5A205" points="170.248,194.248 250.248,122.248 330.248,194.248  " data-original="#F9BA48" class="active-path" data-old_color="#F9BA48"/>
+	<rect x="10.248" y="330.248" style="fill:#F5A205" width="480" height="64" data-original="#F9BA48" class="active-path" data-old_color="#F9BA48"/>
+</g><g>
+	<path style="fill:#333333" d="M482.248,234.248h6.248l12-48h-10.248v-40h-120v-16h-16v16h-32v-32h-64v-16h-16v16h-64v32h-32v-16   h-16v16h-112v40H0l12,48h6.248v88h-16v80h496v-80h-16V234.248z M450.248,322.248v-40h16v40H450.248z M282.248,362.248v24h-64v-24   h-16v24h-24v-48h144v48h-24v-24H282.248z M24.496,218.248l-4-16h157.752v16H24.496z M250.248,133.016l59.152,53.232H191.096   L250.248,133.016z M480,202.248l-4,16H322.248v-16H480z M282.248,322.248v-88h24v88H282.248z M114.248,234.248v32h-16v-32H114.248z    M130.248,234.248h16v32h-16V234.248z M162.248,234.248h16v32h-16V234.248z M178.248,282.248v40h-16v-40H178.248z M194.248,234.248   h24v88h-24V234.248z M306.248,202.248v16h-112v-16H306.248z M234.248,234.248h32v88h-32V234.248z M322.248,282.248h16v40h-16   V282.248z M322.248,266.248v-32h16v32H322.248z M354.248,234.248h16v32h-16V234.248z M386.248,234.248h16v32h-16V234.248z    M418.248,234.248h16v32h-16V234.248z M82.248,234.248v32h-16v-32H82.248z M82.248,282.248v40h-16v-40H82.248z M98.248,282.248h16   v40h-16V282.248z M130.248,282.248h16v40h-16V282.248z M354.248,282.248h16v40h-16V282.248z M386.248,282.248h16v40h-16V282.248z    M418.248,282.248h16v40h-16V282.248z M466.248,266.248h-16v-32h16V266.248z M474.248,186.248H333.32l-26.664-24h167.592V186.248z    M306.248,146.248h-17.376l-17.776-16h35.152V146.248z M194.248,130.248H229.4l-17.776,16h-17.376V130.248z M34.248,162.248h159.6   l-26.664,24H34.248V162.248z M50.248,234.248v32h-16v-32H50.248z M34.248,282.248h16v40h-16V282.248z M18.248,338.248h144v48h-144   V338.248z M482.248,386.248h-144v-48h144V386.248z" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="130.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="98.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="66.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="34.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="450.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="418.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="386.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="354.248" y="354.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+	<rect x="242.248" y="146.248" style="fill:#333333" width="16" height="16" data-original="#333333" class="" data-old_color="#333333"/>
+</g></g> </svg>
